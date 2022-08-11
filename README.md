@@ -1,11 +1,10 @@
-###Olá, sou a Lorena Rodrigues Ramos ✨
+### Olá, sou a Lorena Rodrigues Ramos ✨
 
 🌱Estou no início dos estudos em programação através do curso Biopark Connect 2022;
 Base em linguagem C e MySQL; aspirante nas linguagens mais usuais.
 
 
 
-### Hi there 👋
 
 <!--
 **ramosloren/ramosloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
