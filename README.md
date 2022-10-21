@@ -1,7 +1,7 @@
 ### Olá, sou a Lorena Rodrigues Ramos ✨
 
-🌱Estou no início dos estudos em programação através do curso Biopark Connect 2022;
-Base em linguagem C e MySQL; aspirante às linguagens mais usuais da área.
+🌱Estudante de programação do curso Biopark Connect 2022;
+
 
 
 
